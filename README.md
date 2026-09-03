@@ -1,5 +1,4 @@
 
----
 
 # 🚆 UK Train Ride: Passenger Experience & Journey Intelligence Dashboard
 
@@ -21,13 +20,9 @@
    * [🎯 Route Analysis](#-route-analysis)
 6. [🔍 Key Insights](#-key-insights)
 7. [💡 Recommendations](#-recommendations)
-8. [🚀 Future Enhancements](#-future-enhancements)
-9. [📝 Limitations](#-limitations)
-10. [🧪 Interact with the Dashboard](#-interact-with-the-dashboard)
-11. [🎮 Case Studies & Business Impact](#-case-studies--business-impact)
-12. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)
-13. [✍️ Author](#-author)
-14. [📌 License](#-license)
+8. [🧪 Interact with the Dashboard](#-interact-with-the-dashboard)
+9. [✍️ Author](#-author)
+10. [📌 License](#-license)
 
 ---
 
@@ -209,34 +204,11 @@ The platform also envisions **expanding the scope of data sources** to include c
 
 ---
 
-## 📝 Limitations
-
-* Data may not capture real-time delays or unscheduled service changes
-* Limited granularity on passenger demographics (e.g., age, income)
-* Feedback quality depends on voluntary passenger input
-
----
-
 ## 🧪 Interact with the Dashboard
 
 You can explore the dashboard file via .
 
 *Tip: Use slicers to explore by ticket type, operator, time of day, and route!*
-
----
-
-## 📈 Case Studies & Business Impact
-
-The UK Train Ride dashboard project has already demonstrated substantial business value through targeted interventions driven by data. For instance, the discovery of **high cancellation rates during peak hours** prompted operational changes where more drivers were strategically deployed in hotspot zones during rush times. This not only reduced failed trip counts but also improved customer satisfaction and revenue stability during critical hours.
-
-Additionally, insight into the **disproportionate revenue from long-distance trips** guided the creation of tailored promotional campaigns that successfully increased engagement among high-value users. These promotions included loyalty incentives for frequent long-distance travelers, resulting in a noticeable uplift in average fare per trip and overall profitability.
-
-The segmentation of data by **vehicle types** led to further refinement of marketing strategies. For example, luxury SUVs were repositioned as premium service offerings during airport runs and executive bookings. This shift in strategy elevated the brand's perception and allowed pricing adjustments that contributed to increased margins without compromising trip volume.
-
-Moreover, identifying that the **majority of riders were one-time users** helped the marketing team introduce personalized retention campaigns. Features such as ride credits and referral programs nudged first-time riders into becoming regular users, which gradually shifted the user base from being heavily acquisition-dependent to being loyalty-driven.
-
-In summary, by leveraging actionable insights from the dashboards, the project has enabled a data-informed culture where business decisions are continuously refined, not only reacting to trends but anticipating them. This transformation has positioned the company to better meet customer expectations, increase operational efficiency, and sustain long-term growth in a competitive transport ecosystem.
-
 
 ---
 
