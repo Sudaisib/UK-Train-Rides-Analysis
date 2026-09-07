@@ -192,18 +192,6 @@ Use trip history and behavior to push personalized promotions. For instance, use
 
 ---
 
-## 🔧 Future Enhancements
-
-To ensure continued growth and strategic advantage, several future enhancements are being considered for the UK Train Ride data project. One key area of focus is **real-time data integration**, which would allow the dashboards to reflect live journey updates, cancellations, and delays. This dynamic approach would enhance decision-making for both operational managers and customer service teams, as immediate insights could be drawn from current performance metrics.
-
-Another critical enhancement lies in the adoption of **machine learning models** to predict journey cancellations, peak-hour demand fluctuations, and potential revenue dips. These models would enable the business to anticipate problems before they escalate and proactively deploy resources—such as scheduling additional drivers during predicted demand spikes or adjusting pricing to balance supply and demand.
-
-In addition, implementing **automated anomaly detection** within Power BI could help identify outliers in journey times, revenue patterns, or rider behavior. For example, an unexpected drop in long-distance trips over a weekend could immediately trigger an alert for further investigation.
-
-The platform also envisions **expanding the scope of data sources** to include customer satisfaction surveys, driver ratings, and maintenance records. By integrating qualitative feedback with quantitative data, the business can develop a 360-degree view of journey performance and customer experience. Lastly, **embedding AI-powered chatbots** directly into the dashboard interface can guide stakeholders through key findings, helping non-technical users derive insights effortlessly and improve accessibility across departments.
-
----
-
 ## 🧪 Interact with the Dashboard
 
 You can explore the dashboard file via .
